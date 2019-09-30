@@ -1,0 +1,42 @@
+<div class="container">
+  <div class="row" style="margin-top: 3%">
+    <div class="col-md-8">
+      Company Name
+    </div>
+    <div class="col-md-4">
+      Conultant : Venky
+    </div>
+  </div>
+  <hr>
+  <div class="row" style="margin-top: 3%">
+    <div class="col-md-2">
+
+    </div>
+    <div class="col-md-2">
+      <mat-checkbox class="example-margin">Open</mat-checkbox>
+    </div>
+    <div class="col-md-2">
+      <mat-checkbox class="example-margin">Closed</mat-checkbox>
+    </div>
+    <div class="col-md-6">
+      <mat-form-field style="bottom: 20px;" class="example-form-field">
+        <input matInput type="text" placeholder="Search Title" [(ngModel)]="value" (input)="onSearchChange($event.target.value)">
+        <button mat-button *ngIf="value" matSuffix mat-icon-button aria-label="Clear" (click)="value=''">
+          <mat-icon style="font-size: 100%">close</mat-icon>
+        </button>
+      </mat-form-field>
+      <!-- <i class="material-icons" (click)="onSearchClick()" style="position: relative; left: 10px; bottom: 5px; cursor: pointer;">
+        search
+      </i> -->
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-2">
+
+    </div>
+    <div class="col-md-9">
+      <app-job-posts [searchData]="value"></app-job-posts>
+    </div>
+  </div>
+
+</div>

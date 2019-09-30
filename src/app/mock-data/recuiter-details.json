@@ -1,0 +1,234 @@
+{
+  "posts": [
+    {
+      "company": "IT Soft",
+      "title": "Java",
+      "date_posted": "20-08-13",
+      "status": "open",
+      "shortlisted": [
+        {
+          "name": "Nikhil",
+          "works_at": "Cg",
+          "exp": "3 yrs",
+          "ctc": "10L",
+          "interviews": [
+            {
+              "interview": "Round1",
+              "interviewer": "Vijay",
+              "date": "20-08-13",
+              "result": "Selected"
+            },
+            {
+              "interview": "Manger Round",
+              "interviewer": "Rakesh",
+              "date": "25-08-13",
+              "result": "Selected"
+            },
+            {
+              "interview": "HR",
+              "interviewer": "Suresh",
+              "date": "22-08-13",
+              "result": "Offered"
+            }
+          ]
+        },
+        {
+          "name": "Akshat",
+          "works_at": "Cg",
+          "exp": "3 yrs",
+          "ctc": "15L",
+          "interviews": [
+            {
+              "interview": "Round1",
+              "interviewer": "Vijay",
+              "date": "20-08-13",
+              "result": "Selected"
+            },
+            {
+              "interview": "Manger Round",
+              "interviewer": "Rakesh",
+              "date": "25-08-13",
+              "result": "Rejected"
+            }
+            
+          ]
+        },
+        {
+          "name": "Milind",
+          "works_at": "Cg",
+          "exp": "3 yrs",
+          "ctc": "8L",
+          "interviews": [
+            {
+              "interview": "Round1",
+              "interviewer": "Vijay",
+              "date": "20-08-13",
+              "result": "Selected"
+            },
+            {
+              "interview": "Manger Round",
+              "interviewer": "Rakesh",
+              "date": "25-08-13",
+              "result": "Selected"
+            },
+            {
+              "interview": "HR",
+              "interviewer": "Suresh",
+              "date": "22-08-13",
+              "result": "Offered"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "company": "XYZ Soft",
+      "title": "Angular",
+      "date_posted": "22-08-13",
+      "status": "closed",
+      "shortlisted": [
+        {
+          "name": "Rohan",
+          "works_at": "TCS",
+          "exp": "5 yrs",
+          "ctc": "10L",
+          "interviews": [
+            {
+              "interview": "Round1",
+              "interviewer": "Amit",
+              "date": "29-08-13",
+              "result": "Selected"
+            },
+            {
+              "interview": "Manger Round",
+              "interviewer": "Ashish",
+              "date": "30-08-13",
+              "result": "Selected"
+            },
+            {
+              "interview": "HR",
+              "interviewer": "Suresh",
+              "date": "30-08-13",
+              "result": "Offered"
+            }
+          ]
+        },
+        {
+          "name": "Ayushi",
+          "works_at": "Infosys",
+          "exp": "4 yrs",
+          "ctc": "12L",
+          "interviews": [
+            {
+              "interview": "Round1",
+              "interviewer": "Amit",
+              "date": "29-08-13",
+              "result": "Rejected"
+            }
+          ]
+        },
+        {
+          "name": "Ridhima",
+          "works_at": "Oracle",
+          "exp": "5 yrs",
+          "ctc": "18L",
+          "interviews": [
+            {
+              "interview": "Round1",
+              "interviewer": "Amit",
+              "date": "29-08-13",
+              "result": "Selected"
+            },
+            {
+              "interview": "Manger Round",
+              "interviewer": "Ashish",
+              "date": "30-08-13",
+              "result": "Selected"
+            },
+            {
+              "interview": "HR",
+              "interviewer": "Suresh",
+              "date": "30-08-13",
+              "result": "Offered"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "company": "ABC Soft",
+      "title": "Java",
+      "date_posted": "25-08-13",
+      "status": "open",
+      "shortlisted": [
+        {
+          "name": "Mohan",
+          "works_at": "TCS",
+          "exp": "5 yrs",
+          "ctc": "10L",
+          "interviews": [
+            {
+              "interview": "Round1",
+              "interviewer": "Preeti",
+              "date": "27-08-13",
+              "result": "Rejected"
+            }
+            
+          ]
+        },
+        {
+          "name": "Ayushi",
+          "works_at": "Infosys",
+          "exp": "4 yrs",
+          "ctc": "12L",
+          "interviews": [
+            {
+              "interview": "Round1",
+              "interviewer": "Preeti",
+              "date": "27-08-13",
+              "result": "Selected"
+            },
+            {
+              "interview": "Manger Round",
+              "interviewer": "Kamal",
+              "date": "28-08-13",
+              "result": "Selected"
+            },
+            {
+              "interview": "HR",
+              "interviewer": "Raju",
+              "date": "30-08-13",
+              "result": "Offered"
+            }
+          ]
+        },
+        {
+          "name": "Ridhima",
+          "works_at": "Oracle",
+          "exp": "5 yrs",
+          "ctc": "18L",
+          "interviews": [
+            {
+              "interview": "Round1",
+              "interviewer": "Preeti",
+              "date": "27-08-13",
+              "result": "Selected"
+            },
+            {
+              "interview": "Manger Round",
+              "interviewer": "Kamal",
+              "date": "28-08-13",
+              "result": "Selected"
+            },
+            {
+              "interview": "HR",
+              "interviewer": "Sanju",
+              "date": "30-08-13",
+              "result": "Offered"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
